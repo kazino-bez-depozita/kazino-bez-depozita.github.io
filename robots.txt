@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-bez-depozita.github.io
+Sitemap: https://kazino-bez-depozita.github.io/sitemap.xml
